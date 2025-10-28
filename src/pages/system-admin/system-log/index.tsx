@@ -1,0 +1,1 @@
+export {default} from './list-system-log/system-log-page';

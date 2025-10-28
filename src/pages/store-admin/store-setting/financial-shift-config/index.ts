@@ -1,0 +1,1 @@
+export {default} from './financial-shift-config-card';

@@ -1,0 +1,1 @@
+export {default} from './system-payment-method-page';

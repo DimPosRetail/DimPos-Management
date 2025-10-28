@@ -1,0 +1,1 @@
+export {default} from './brand-order-edit-page';

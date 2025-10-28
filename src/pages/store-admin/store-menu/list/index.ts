@@ -1,0 +1,1 @@
+export { default } from "./store-menu-page"

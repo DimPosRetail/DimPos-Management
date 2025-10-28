@@ -1,0 +1,1 @@
+export {default} from './internal-purchase-orders-page';

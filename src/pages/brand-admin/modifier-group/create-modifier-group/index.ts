@@ -1,0 +1,1 @@
+export {default} from './modifier-group-create-page';
